@@ -14,8 +14,14 @@ Code architect by day, data whisperer by night. I build intelligent systems, eng
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat&logo=pytorch&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-2E86C1?style=flat&logo=R&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-2E86C1?tyle=flat&logo=R&logoColor=white)
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010&color=4285F4&logoWidth=15&borderRadius=12)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010&color=009688&logoWidth=15&borderRadius=12)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010&color=000000&logoWidth=15&borderRadius=12)
+![Selenium](https://img.shields.io/badge/Selenium-%2344BFC3.svg?style=for-the-badge&logo=selenium&logoColor=white&logoSize=auto&labelColor=black&color=0A66C2&label=&borderRadius=20)  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2344BFC3.svg?style=for-the-badge&logo=python&logoColor=white&logoSize=auto&labelColor=black&color=FF8C00&label=&borderRadius=20)  
+![Web Scraping](https://img.shields.io/badge/WebScraping-%2344BFC3.svg?style=for-the-badge&logo=codeforces&logoColor=white&logoSize=auto&labelColor=black&color=228B22&label=&borderRadius=20)
+
 
 
 # 📊 GitHub Stats:
