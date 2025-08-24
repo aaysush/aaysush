@@ -15,13 +15,12 @@ Code architect by day, data whisperer by night. I build intelligent systems, eng
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=databricks&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-2E86C1?tyle=flat&logo=R&logoColor=white)
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010&color=4285F4&logoWidth=15&borderRadius=8)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010&color=009688&logoWidth=15&borderRadius=8)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010&color=000000&logoWidth=15&borderRadius=8)
-![Selenium](https://img.shields.io/badge/Selenium-44BFC3?style=for-the-badge&logo=selenium&logoColor=white&labelColor=101010&color=0A66C2&borderRadius=8)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-44BFC3?style=for-the-badge&logo=python&logoColor=white&labelColor=101010&color=FF8C00&borderRadius=8)
-![Web Scraping](https://img.shields.io/badge/WebScraping-44BFC3?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=101010&color=228B22&borderRadius=8)
-
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-4285F4?style=flat&logo=google-chrome&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-44BFC3?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF8C00?style=flat&logo=python&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/WebScraping-228B22?style=flat&logo=codeforces&logoColor=white)
 
 
 
